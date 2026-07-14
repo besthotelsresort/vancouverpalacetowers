@@ -1,0 +1,2 @@
+# vancouverpalacetowers
+Static site: vancouverpalacetowers
